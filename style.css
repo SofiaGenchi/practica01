@@ -99,3 +99,19 @@ footer a {
     display: flex;
     padding: 1rem;
 }
+
+
+form {
+    width: 30vw;
+    height: auto;
+    background-color: #fbcfe7;
+    display: flex;
+    flex-direction: column;
+    justify-content: left;
+    align-items: start;
+}
+
+form input {
+    height: 25px;
+    width: max-content;
+}
