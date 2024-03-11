@@ -82,3 +82,20 @@ footer a {
     text-decoration: none;
     color: #da2873;
 }
+
+.sucursales ul {
+    list-style: none;
+}
+
+.sucursales li {
+    margin: 0;
+    text-align: left;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+.mapas ul {
+    list-style: none;
+    display: flex;
+    padding: 1rem;
+}
